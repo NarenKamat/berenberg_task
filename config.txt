@@ -1,0 +1,7 @@
+[source_files]
+executionFile = /Users/narenkamat/Personal/berenberg/exectuions.parquet
+reffile = /Users/narenkamat/Personal/berenberg/refdata.parquet
+marketfile = /Users/narenkamat/Personal/berenberg/marketdata.parquet
+[output]
+final_file = /Users/narenkamat/Personal/berenberg/execution_report.csv
+perf_file = /Users/narenkamat/Personal/berenberg/performance_report.txt
