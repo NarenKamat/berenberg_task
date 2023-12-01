@@ -17,10 +17,13 @@ berenberg_task
 3. Generated Reports are stored  under
    berenberg_task
    |
-   -- output_reports
+   -- output_files
       |
        -- execution_report.csv
        -- performance_report.txt
 
-4. 
+4. Deployment
+     Clone the repository using 
+
+5. 
 
