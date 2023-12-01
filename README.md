@@ -23,7 +23,16 @@ berenberg_task
        -- performance_report.txt
 
 4. Deployment
-     Clone the repository using 
+     Clone the repository using Git
 
-5. 
+5. Execution
+     5a. To generate the execution report run
+         python execution_report.py
+     5b. To generate the performance metrics report
+         python performance_metrics.py
+      
 
+Issues:
+
+There referential data issues , cannot find matching listing_id's within the marketdata.parquet 
+57 Unique ISIN's dont have a matching bbo data.
